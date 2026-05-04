@@ -1,7 +1,7 @@
 import { generateTextAndImage } from "./utils.js"
 
 // 1. Change the value of the variable to your name
-let name = "Zara Staborn"
+let name = "Apeweh Rexford Awaragya"
 
 // 2. Change the value of the variable to your favorite activity
 let favoriteActivity = "snacking"
